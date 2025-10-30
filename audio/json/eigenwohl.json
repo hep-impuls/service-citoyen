@@ -1,0 +1,118 @@
+{
+  "source": "[SRF Echo der Zeit, 19.03.2025](https://www.srf.ch/play/radio/redirect/detail/685a3e06-1df6-3333-abcf-93535dd23320)",
+  "mp3": "https://download-media.srf.ch/world/audio/Echo_der_Zeit_radio/2025/03/Echo_der_Zeit_radio_AUDI20250319_RS_0084_b70f133ecbb0449eb89cbdf0332c89dc.mp3",
+  "entries": [
+    {
+      "concept": "Initiative Service-Citoyen",
+      "timestamp": "00_00",
+      "layout": "title",
+      "explanation": "Initiative Service-Citoyen",
+      "slide_content": "Ein Dienst zu Gunsten der Allgemeinheit und der Umwelt.",
+      "image_filename": ""
+    },
+    {
+      "concept": "Politische Chancen",
+      "timestamp": "00_20",
+      "layout": "only_text",
+      "explanation": "Die politischen Chancen für das Anliegen stehen nicht gut.",
+      "slide_content": "Der Nationalrat hat die **Initiative** verworfen. Die Gründe: *zu teuer* und *zu kompliziert*.",
+      "image_filename": "image_1.png"
+    },
+    {
+      "concept": "Noemi Roten",
+      "timestamp": "00_41",
+      "layout": "classic_bullet_point",
+      "explanation": "Sie ist der Kopf der **Service-Citoyen-Initiative** und hat ein *neues Weltbild*.",
+      "slide_content": "- Denkt an eine *andere Qualität* des Zusammenlebens.\n- Jeder Einzelne soll **Verantwortung** übernehmen.\n- Dienst an der *Allgemeinheit* und der *Umwelt*.",
+      "image_filename": "image_2.png"
+    },
+    {
+      "concept": "Formen des Dienstes",
+      "timestamp": "01_05",
+      "layout": "only_text",
+      "explanation": "Formen des Dienstes",
+      "slide_content": "Als **Zivilschütze**, **Soldatin** oder *Pflegend*, *hegend* und *helfend* anderswo in der Gesellschaft.",
+      "image_filename": "image_3.png"
+    },
+    {
+      "concept": "Sichtweisen auf den Gemeinsinn",
+      "timestamp": "01_26",
+      "layout": "a_vs_b",
+      "explanation": "Ein Vergleich zwischen der *positiven* und der *negativen* Formulierung der Initiative.",
+      "slide_content": "Positiv (Noemi Roten):\n- *Es würde uns besser gehen*\n- Stärkung des **Gemeinsinns**\n- Individuen handeln für die Gesellschaft\n---\nNegativ:\n- *Es ginge uns schlechter*\n- **Egoismus** würde über Gemeinsinn siegen\n- Zunehmende *Individualisierung* der Gesellschaft",
+      "image_filename": "image_4.png"
+    },
+    {
+      "concept": "Verordnete Gemeinnützigkeit",
+      "timestamp": "01_46",
+      "layout": "only_text",
+      "explanation": "Alle jungen Menschen sollen *verpflichtet* werden, Gutes zu tun.",
+      "slide_content": "Dies ist der Kerngedanke von **Noemi Roten**. Aber wurzelt **Gemeinnützigkeit** nicht in der *Freiwilligkeit*?",
+      "image_filename": "image_5.png"
+    },
+    {
+      "concept": "Andrea Maurer",
+      "timestamp": "02_10",
+      "layout": "quote",
+      "explanation": "*Das könnte dieses Bewusstsein erweitern, dass man merkt, es gibt Menschen, die sind auf uns angewiesen.*",
+      "slide_content": "Andrea Maurer, Präsidentin Gemeinnütziger Frauenverein Sarnen, über die möglichen Effekte.",
+      "image_filename": "image_6.png"
+    },
+    {
+      "concept": "Pflicht stärkt Freiwilligkeit",
+      "timestamp": "02_47",
+      "layout": "classic_bullet_point",
+      "explanation": "Die Idee: Der **Service Citoyen** als Pflicht fördert *spätere freiwillige* Einsätze.",
+      "slide_content": "- Bürgerdienst fördert *weiterhin* Engagement für das Allgemeinwohl.\n- Bewusstsein für den **Dienst an der Allgemeinheit** wird selbstverständlich.\n- Dient als *erster Berührungspunkt* für manche.",
+      "image_filename": "image_8.png"
+    },
+    {
+      "concept": "Wert der Freiwilligkeit",
+      "timestamp": "03_15",
+      "layout": "quote",
+      "explanation": "*[...] Wir sind darauf angewiesen, dass die Mitglieder unserer Gesellschaft sich engagieren und ihre Zeit für eine gemeinschaftliche Idee aus freien Stücken hergeben.*",
+      "slide_content": "Barbara Bleisch, Philosophin",
+      "image_filename": "image_9.png"
+    },
+    {
+      "concept": "Stärkung der Resilienz",
+      "timestamp": "03_35",
+      "layout": "classic_bullet_point",
+      "explanation": "Noemi Roten glaubt, der **Service Citoyen** würde uns *längerfristig positiv* verändern.",
+      "slide_content": "- Macht die Gesellschaft **resilienter**.\n- Bereitet auf *zukünftige Herausforderungen* vor.\n- Stärkt wichtige Sektoren der Gesellschaft.",
+      "image_filename": "image_10.png"
+    },
+    {
+      "concept": "Herausforderungen der Zukunft",
+      "timestamp": "03_53",
+      "layout": "only_text",
+      "explanation": "Bereiche, in denen der Dienst an der Gesellschaft helfen würde.",
+      "slide_content": "Dazu gehören die **Pflege**, der **Schutz der Umwelt**, die *Sicherheit des Landes* oder das *Funktionieren von Gemeinden*.",
+      "image_filename": "image_11.png"
+    },
+    {
+      "concept": "Soziologische Einordnung",
+      "timestamp": "04_09",
+      "layout": "classic_bullet_point",
+      "explanation": "Soziologe **Pirm in Bundy**: Idee ist *überzeichnet*, aber **notwendig**.",
+      "slide_content": "- Grund: Die **Freiwilligkeit** in der Gesellschaft *bröckelt*.\n- Ohne Freiwillige müssten Dienste *bezahlt werden*.\n- Dies würde *hohe Kosten* verursachen.",
+      "image_filename": "image_12.png"
+    },
+    {
+      "concept": "Die Kosten der Freiwilligkeit",
+      "timestamp": "04_25",
+      "layout": "quote",
+      "explanation": "*[...] all diese Aspekte, die heutzutage durch die Freiwilligen gemacht werden, müssen vielleicht in Zukunft bezahlt werden und das kostet uns.*",
+      "slide_content": "Pirm in Bundy über die *finanziellen Folgen* schwindender Freiwilligenarbeit.",
+      "image_filename": "image_13.png"
+    },    
+    {
+      "concept": "Fazit: Pflicht vs. Freiwilligkeit",
+      "timestamp": "04_42",
+      "layout": "only_text",
+      "explanation": "Die Initiative wirft eine Grundfrage auf:",
+      "slide_content": "Stärkt eine *Bürgerpflicht* den **Gemeinsinn**?",
+      "image_filename": "image_14.png"
+    }
+  ]
+}
