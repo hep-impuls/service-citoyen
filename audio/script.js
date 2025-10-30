@@ -283,11 +283,10 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   function initialize() {
-    setZoomHintText();
-    attachBasicAudioListeners(audioPlayer);
-    
-    // This block runs ONLY when the page is opened directly, NOT in the editor's iframe
-    if (window.self === window.top) {
+      setZoomHintText();
+      attachBasicAudioListeners(audioPlayer);
+      
+      // This block now runs always, allowing it to load in iframes like H5P
       // Use the 'Id' from URL, or default to 'test' if it's missing
       const id = new URLSearchParams(location.search).get('Id') || 'test';
       const slidesFile = `${id}.json`;
@@ -304,7 +303,6 @@ document.addEventListener('DOMContentLoaded', () => {
           }
         });
     }
-  }
 
   initialize();
 });
